@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Code Doctor",
+  "description": "基于 AI 的 Python 逻辑溯源与诊断工具，专为初学者设计。可视化错误链条并提供概念性补丁。",
+  "requestFramePermissions": []
+}
